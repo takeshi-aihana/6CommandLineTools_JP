@@ -1,10 +1,10 @@
-$Lastupdate: 2021/11/01 22:38:59 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:41:10 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
 ----
 
-# プログラマが生産性を上げるために役立つ６つのコマンドライン・ツール
+# プログラマが生産性を上げるのに役立つ６つのコマンドライン・ツール
 
 ## はじめに
 
