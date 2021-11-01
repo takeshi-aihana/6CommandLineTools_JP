@@ -1,4 +1,4 @@
-$Lastupdate: 2021/11/01 22:37:17 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:38:59 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
@@ -271,7 +271,7 @@ git wip = !git add --all; git ci -m WIP
 ##### 「`GitUpdate` が commit メッセージを作成し、commit して push までしてくれる例」
 ![1626790555-1000-65425229c.png](./images/1626790555-1000-65425229c.png)
 
-### GitUpdat のインストールについて
+### GitUpdate のインストールについて
 
 ```shell
 $ git clone https://github.com/nikitavoloboev/gitupdate
