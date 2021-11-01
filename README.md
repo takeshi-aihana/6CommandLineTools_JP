@@ -1,4 +1,4 @@
-$Lastupdate: 2021/11/01 22:26:03 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:29:55 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
@@ -116,8 +116,8 @@ source /usr/local/lib/python3.9/site-packages/scripts/shell/funky.sh
 
 ## Fuzzy Finder (FZF)
 
-### FIXME（画像）
-「この投稿のために作成した画像ファイルの場所を `fzf` を使って特定した例」
+### 「この投稿のために作成した画像ファイルの場所を `fzf` を使って特定した例」
+![1626788538-1000-b7c54354e.png](./images/1626788538-1000-b7c54354e.png)
 
 
 ここまで紹介してきた `broot` と `funky` を使って私の生産性が向上していたとしたら、さらにたくさんのツールを使っても「生産性しか」向上させることができません。
