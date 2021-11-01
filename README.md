@@ -1,8 +1,8 @@
-1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
----------+---------+---------+---------+---------X---------+---------+---------+---------+---------X
-$Lastupdate: 2021/10/22 10:54:34 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:14:03 $ T.AIHANA
 
-* [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
+* [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
+
+----
 
 # 生産的なプログラマのための６つのコマンドライン・ツール
 
