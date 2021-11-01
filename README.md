@@ -1,4 +1,4 @@
-$Lastupdate: 2021/11/01 22:31:14 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:37:17 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
@@ -139,7 +139,7 @@ source /usr/local/lib/python3.9/site-packages/scripts/shell/funky.sh
 
 私は、Alexey Samoshkin 氏による心地ちよいピアノを BGM として `FZF` のさまざまな使い方について説明している下記の動画をご覧になることをおすすめします。
 
-### FIXME（動画）
+##### FIXME（動画）
 
 ### FZF のインストールについて
 
@@ -164,8 +164,8 @@ $ source ~/.fzf.bash
 
 ## McFly
 
-### FIXME（画像）
-「`McFly` を使って、このパスにある "[earthly](https://earthly.dev)" というコマンドのオプションをいろいろ提示している例」
+##### 「`McFly` を使って、このパスにある "[earthly](https://earthly.dev)" というコマンドのオプションをいろいろ提示している例」
+![1626788971-1000-0b1e50ab8.png](./images/1626788971-1000-0b1e50ab8.png)
 
 `FZF` は（`vim **` などで）ファイルをオープンする際にコマンドラインから対象となるファイル名をフィルタリングするのに最適なツールですが、コマンドラインを補完するような場合は、`.history` ファイルに記録された実際のコマンドライン列よりももっとたくさんの「オプション情報」が含まれます。
 [McFly](https://github.com/cantino/mcfly/) は、これらの情報を使ってもっと関連性の高い結果を提供しようとするツールです。
@@ -218,8 +218,8 @@ $ eval "$(mcfly init zsh)"
 ## Better CD
 
 
-### FIXME（画像）
-「`cd` の代替コマンドとして `zoxide` を使った例」
+##### 「`cd` の代替コマンドとして `zoxide` を使った例」
+![1626789626-1000-fe7102962.png](./images/1626789626-1000-fe7102962.png)
 
 いろいろなパスを補完する際は `FZF` は便利なのですが、`cd` コマンドを使ってディレクトリを移動するときは役に立ちませんでした：
 ホーム・ディレクトリから `cd ** [TAB]` と入力すると `FZF` が全候補のリストを作成するまでしばらく待たされます。
@@ -268,8 +268,8 @@ git wip = !git add --all; git ci -m WIP
 これは、commit メッセージが重要ではない場面で最適です。
 
 
-### FIXME（画像）
-「`GitUpdate` が commit メッセージを作成し、commit して push までしてくれる例」
+##### 「`GitUpdate` が commit メッセージを作成し、commit して push までしてくれる例」
+![1626790555-1000-65425229c.png](./images/1626790555-1000-65425229c.png)
 
 ### GitUpdat のインストールについて
 
