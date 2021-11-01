@@ -1,4 +1,4 @@
-$Lastupdate: 2021/11/01 22:23:45 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:26:03 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
@@ -48,15 +48,10 @@ $ tree
 
 ![broot-1000-39409e646.png](./images/broot-1000-39409e646.png)
 
-```shell
-$ T.B.D.
-```
-
 `broot` の中で矢印キーを使い表示する箇所を変更することができる他に、`-w` オプションを渡すと（`broot -w`）ディスク使用量を確認することができます。
 
-```shell
-$ T.B.D.
-```
+![broot2-1000-84e520359.png](./images/broot2-1000-84e520359.png)
+
 
 他にもたくさんのことができるので、詳しくは [GitHub guide](https://github.com/Canop/broot) をご覧ください。
 自分にとっては、ちょうど良い感じ機能を持つ `tree` の代替えです。
