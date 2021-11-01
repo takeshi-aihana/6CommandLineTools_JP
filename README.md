@@ -1,6 +1,6 @@
-$Lastupdate: 2021/11/01 22:51:51 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:54:13 $ T.AIHANA
 
-* [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
+* Japanese translation of [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
 
 ----
 
