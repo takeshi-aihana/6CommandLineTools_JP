@@ -1,4 +1,4 @@
-$Lastupdate: 2021/11/01 22:41:10 $ T.AIHANA
+$Lastupdate: 2021/11/01 22:51:51 $ T.AIHANA
 
 * [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/) の日本語訳
 
@@ -296,6 +296,7 @@ $ sudo cp gitupdate /usr/local/bin
 私の Twitter アカウントと E-メールアドレスを下に記載しておきます。
 貴方がどんなツールを使っているのか聞いてみたいです。
 
+----
 
 ### Adam Gordon Bell 氏
 
